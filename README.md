@@ -24,7 +24,8 @@ Consistent error handling
 CORS configured for MERN
 – Allowed localhost:3000 and localhost:4000.
 
-## Result: Flask API now returns clean JSON and works smoothly with the MERN stack.
+## Result: 
+Flask API now returns clean JSON and works smoothly with the MERN stack.
 
 ## How to Run Locally
 ```bash
